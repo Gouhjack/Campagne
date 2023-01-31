@@ -8,10 +8,10 @@ Bien plus tard, pendant une période marquée par les trahisons et la vilénie, 
 Arme magique. La Hache des seigneurs nains est une arme magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle. La hache fonctionne également comme un ceinturon des nains, un marteau de lancer nain et une épée tranchante.
 Propriétés aléatoires. La hache possède un certain nombre de propriétés déterminées aléatoirement :
 • 2 propriétés bénéfiques mineures
-• 1 propriété bénéfique majeure
+
 • 2 propriétés néfastes mineures
 Bénédiction de Moradin. Si vous êtes un nain lié à la hache, vous gagnez les bénéfices suivants :
-• Vous êtes immunisés aux dégâts de poison.
+
 • La portée de votre vision dans le noir augmente de 18 mètres.
 • Vous gagnez la maîtrise des outils d'artisan en rapport avec la forge, le brassage de la bière, et la maçonnerie.
 Invocation d'élémentaires de la terre. Si vous tenez la hache, vous pouvez utiliser votre action pour lancer grâce à elle le sort invocation d'élémentaire, et ainsi invoquer un élémentaire de la terre. Vous ne pouvez pas réutiliser cette propriété avant le prochain lever de soleil.
