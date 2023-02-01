@@ -1,7 +1,7 @@
 Guérison de groupe
 [ Mass Heal ]
 niveau 9 - évocation
-Temps d'incantation : 2 action
+Temps d'incantation : 3 action
 Portée : 18 mètres
 Composantes : V, S
 Durée : instantanée
